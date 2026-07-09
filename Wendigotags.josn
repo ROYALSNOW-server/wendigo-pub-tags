@@ -35,6 +35,18 @@
       "Active": true,
       "TextActive": true,
       "BigTextActive": true
+    },
+    {
+      "id": 25187,
+      "UserID": "usr_272fade9-0880-4b42-bab0-189610087839",
+      "DisplayName": "Absence",
+      "Tag": [".WOBBLE.<i><color=#8000FF>B</color><color=#6600EC>e</color><color=#4D00D9>g</color><color=#3300C6>g</color><color=#1A00B3>e</color><color=#0000A0>r</color></i>"],
+      "PlateBigText": "",
+      "Size": "<size=95>",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": true
     }
   ]
 }
