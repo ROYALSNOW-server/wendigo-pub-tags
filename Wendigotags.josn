@@ -71,6 +71,18 @@
       "Active": true,
       "TextActive": true,
       "BigTextActive": true
+    },
+    {
+      "id": 2300,
+      "UserID": "usr_d0a97c93-86bd-4abf-8c4a-41b30aa55427",
+      "DisplayName": "PINK_Z",
+      "Tag": [".SCROLL.<color=#562073>N</color><color=#641D87>O</color><color=#711B9B>T</color><color=#7F18AF> </color><color=#8D15C3>P</color><color=#9B12D7>E</color><color=#A810EB>D</color><color=#B60DFF>O</color>"],
+      "PlateBigText": "",
+      "Size": "<size=95>",
+      "Malicious": false,
+      "Active": true,
+      "TextActive": true,
+      "BigTextActive": true
     }
   ]
 }
